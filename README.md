@@ -1,2 +1,2 @@
-# aws-servicelevel-report
-This script report service-level.
+# What is this
+This script reports service-level of aws services.
